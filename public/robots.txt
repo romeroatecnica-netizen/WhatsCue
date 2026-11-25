@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://whatscue.bastelar.com/sitemap.xml
+Host: https://whatscue.bastelar.com

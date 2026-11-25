@@ -1,0 +1,6 @@
+{
+  "name": "WhatsCue — WhatsApp Link Generator, Text Formatter, Quick Replies & Visual Maker",
+  "description": "100% client-side WhatsApp utilities: message formatter with live chat preview, wa.me link generator, quick reply templates, and canvas status/carousel maker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
